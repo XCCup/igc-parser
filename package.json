@@ -11,6 +11,7 @@
   ],
   "main": "index.js",
   "types": "index.d.ts",
+  "repository": "https://github.com/Turbo87/igc-parser",
   "scripts": {
     "build": "tsc",
     "prepublish": "tsc",
